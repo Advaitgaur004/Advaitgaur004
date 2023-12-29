@@ -9,7 +9,7 @@
 </p>
 
 
-- 🔭 I’m currently working on [Sign Language Recognition(HULK)](https://github.com/AISocietyIITJ/SLR/tree/main)
+- 🔭 I worked on [Sign Language Recognition(HULK)](https://github.com/AISocietyIITJ/SLR/tree/main)
 
 - 🔭 I’m also working on Grade Portal
   
