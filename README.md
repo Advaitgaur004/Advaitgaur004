@@ -1,11 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://Advaitgaur004.io)
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 <h1 align="center">Hi 👋, I'm Advait gaur</h1>
 <h3 align="center">A passionate Backend developer, game developer and ml enthusiast</h3>
