@@ -8,9 +8,9 @@
 
 - 🔭 I worked on [Sign Language Recognition(HULK)](https://github.com/AISocietyIITJ/SLR/tree/main)
 
-- 🔭 I’m also working on Grade Portal
+- 🔭 I’m also working on TRS-archive
   
-- 🌱 I’m currently learning **Unity,Godot and Django framework**
+- 🌱 I’m currently learning **Express, Django framework and Go**
 
 - 💬 Ask me about **Suspenseful movies, Football**
 
