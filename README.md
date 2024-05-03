@@ -6,9 +6,7 @@
 <h3 align="center">A passionate Backend developer, game developer and ml enthusiast</h3>
 
 
-- 🔭 I worked on [Sign Language Recognition(HULK)](https://github.com/AISocietyIITJ/SLR/tree/main)
-
-- 🔭 I’m also working on TRS-archive
+- 🔭 I’m currrently working on TRS-archive
   
 - 🌱 I’m currently learning **Express, Django framework and Go**
 
