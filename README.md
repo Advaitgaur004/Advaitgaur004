@@ -3,15 +3,12 @@
 
 
 <h1 align="center">Hi 👋, I'm Advait gaur</h1>
-<h3 align="center">A passionate Backend developer, game developer and ml enthusiast</h3>
+<h3 align="center">A passionate Backend developer, Game developer</h3>
 
-
-- 🔭 I’m currrently working on TRS-archive
+- 🔭 I’m currently working on TRS-archive
   
 - 🌱 I’m currently learning **Express, Django framework and Go**
-
-- 💬 Ask me about **Suspenseful movies, Football**
-
+- 
 - ⚡ Fun fact **I think I have friends**
 
 <h3 align="left">Connect with me:</h3>
