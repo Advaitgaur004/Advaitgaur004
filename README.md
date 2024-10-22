@@ -4,10 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm Advait gaur</h1>
 <h3 align="center">A passionate Backend developer, Game developer</h3>
-
-- 🔭 I’m currently working on TRS-archive
   
-- 🌱 I’m currently learning **Express, Django framework and Go**
+- 🌱 I’m currently learning **Network development, Web Programming, Cloud computing**
   
 - ⚡ Fun fact **I think I have friends**
 
