@@ -3,9 +3,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Advait gaur</h1>
-<h3 align="center">A passionate Backend developer, Game developer</h3>
+<h3 align="center">Have Done Backend, AI/ML, Game Development, fuzzing, Library/API Design (light portable libraries), </h3>
   
-- 🌱 I’m currently learning **Network development, Web Programming, Cloud computing**
+- 🌱 I’m currently learning **System Programming, Autograd System, Automated Vulnerability Discovery**
   
 - ⚡ Fun fact **I think I have friends**
 
