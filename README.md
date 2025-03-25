@@ -85,6 +85,4 @@
   </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=advaitgaur004&show_icons=true&locale=en&layout=compact" alt="advaitgaur004" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=advaitgaur004&" alt="advaitgaur004" /></p>
