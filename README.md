@@ -6,7 +6,7 @@
 <h3 align="center">Have Done Backend, AI/ML, Game Development, fuzzing, Library/API Design (light portable libraries), </h3>
   
 - 🌱 I’m currently learning **System Programming, Autograd System, Automated Vulnerability Discovery**
-  
+- 🔭 I’m also working on Bitcoin, DevSecOps, Software Security Testing
 - ⚡ Fun fact **I think I have friends**
 
 <h3 align="left">Connect with me:</h3>
